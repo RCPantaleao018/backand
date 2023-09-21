@@ -1,0 +1,6 @@
+@Media (max-width: 576px)
+{
+    .imagem{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY_I8Sizvzf7Payh7O9dmMIKYoci8C7jcLxTTRq6IOlLsTrTZ1R5AZMyYExz6xXjgUXMM&usqp=CAU);
+    }
+}

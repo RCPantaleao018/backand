@@ -1,0 +1,5 @@
+C:\Users\Aluno\bootstrpet\back-end\05_For_Array\obj\Debug\net7.0\05_For_Array.csproj.AssemblyReference.cache
+C:\Users\Aluno\bootstrpet\back-end\05_For_Array\obj\Debug\net7.0\05_For_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\bootstrpet\back-end\05_For_Array\obj\Debug\net7.0\05_For_Array.AssemblyInfoInputs.cache
+C:\Users\Aluno\bootstrpet\back-end\05_For_Array\obj\Debug\net7.0\05_For_Array.AssemblyInfo.cs
+C:\Users\Aluno\bootstrpet\back-end\05_For_Array\obj\Debug\net7.0\05_For_Array.csproj.CoreCompileInputs.cache

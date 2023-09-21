@@ -1,0 +1,15 @@
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\bin\Debug\net7.0\models.exe
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\bin\Debug\net7.0\models.deps.json
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\bin\Debug\net7.0\models.runtimeconfig.json
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\bin\Debug\net7.0\models.dll
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\bin\Debug\net7.0\models.pdb
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.csproj.AssemblyReference.cache
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.AssemblyInfoInputs.cache
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.AssemblyInfo.cs
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.dll
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\refint\models.dll
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.pdb
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\models.genruntimeconfig.cache
+C:\Users\Aluno\bootstrpet\back-end\15_listas\models\obj\Debug\net7.0\ref\models.dll

@@ -1,0 +1,15 @@
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.csproj.AssemblyReference.cache
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.AssemblyInfoInputs.cache
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.AssemblyInfo.cs
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\bin\Debug\net7.0\07_class-Objetos.exe
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\bin\Debug\net7.0\07_class-Objetos.deps.json
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\bin\Debug\net7.0\07_class-Objetos.runtimeconfig.json
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\bin\Debug\net7.0\07_class-Objetos.dll
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\bin\Debug\net7.0\07_class-Objetos.pdb
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.dll
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\refint\07_class-Objetos.dll
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.pdb
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\07_class-Objetos.genruntimeconfig.cache
+C:\Users\Aluno\bootstrpet\back-end\07_class-Objetos\obj\Debug\net7.0\ref\07_class-Objetos.dll

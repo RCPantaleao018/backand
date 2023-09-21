@@ -1,0 +1,15 @@
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\bin\Debug\net7.0\10_Metodos_Construtores.exe
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\bin\Debug\net7.0\10_Metodos_Construtores.deps.json
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\bin\Debug\net7.0\10_Metodos_Construtores.runtimeconfig.json
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\bin\Debug\net7.0\10_Metodos_Construtores.dll
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\bin\Debug\net7.0\10_Metodos_Construtores.pdb
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.csproj.AssemblyReference.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.AssemblyInfoInputs.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.AssemblyInfo.cs
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.dll
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\refint\10_Metodos_Construtores.dll
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.pdb
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\10_Metodos_Construtores.genruntimeconfig.cache
+C:\Users\sn1081582\OneDrive - SESISENAISP - Corporativo\Documentos\Curso DEV\2º Semestre\Mir\Back-End\10_Metodos_Construtores\obj\Debug\net7.0\ref\10_Metodos_Construtores.dll
